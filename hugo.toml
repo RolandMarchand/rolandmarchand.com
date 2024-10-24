@@ -17,10 +17,10 @@ paginate = 5
   showLanguageSelector = false
 
   # set theme to full screen width
-  fullWidthTheme = true
+  fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -60,9 +60,9 @@ paginate = 5
 
     [languages.en.params]
       subtitle = "Software Developer"
-      owner = ""
-      keywords = ""
-      copyright = ""
+      owner = "Roland Marchand"
+      keywords = "programming, coding, blog, portfolio"
+      copyright = "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
@@ -74,15 +74,15 @@ paginate = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "Roland Marchand"
         logoHomeLink = "/"
 
-      [languages.en.menu]
-        [[languages.en.menu.main]]
-          identifier = "about"
-          name = "About"
-          url = "/about"
-        [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
+      # [languages.en.menu]
+      #   [[languages.en.menu.main]]
+      #     identifier = "about"
+      #     name = "About"
+      #     url = "/about"
+      #   [[languages.en.menu.main]]
+      #     identifier = "showcase"
+      #     name = "Showcase"
+      #     url = "/showcase"
