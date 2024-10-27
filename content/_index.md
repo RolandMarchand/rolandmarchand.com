@@ -6,9 +6,10 @@ description = "Sample article showcasing basic styling and formatting for HTML e
 framed = true
 +++
 
-# Hi There
+# Hello, World!
+
 I'm Roland Marchand, a passionate programming student at Algonquin College with a love for all things code.
 
-I’ve been programming for over four years, contributed to open-source projects, and worked as a game programmer. Here, you'll find a collection of my work, blog posts on programming, and personal projects.
+I have been programming for over four years, contributing to open-source projects, and working as a game programmer. Here you will find a collection of my work, blog posts on programming, and personal projects.
 
 Explore my journey, and feel free to reach out!
