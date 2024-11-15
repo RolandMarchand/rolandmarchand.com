@@ -1,22 +1,20 @@
-+++
-title = "Easy C Debugging"
-author = "Roland Marchand"
-summary = "Learn the basics of the GNU Debugger"
-description = "Learn how to use the GNU Debugger to debug C and C++ programs, analyze control flow, inspect variables at run-time, and fix crashes and segmentation faults."
-date = "2022-10-18"
-toc = true
-cover = "featured.webp"
-categories = ["Computer Science"]
-tags = [
-   "C",
-   "C++",
-   "Debugging",
-   "Programming"
-]
-authors = [
-    "lazarus-overlook"
-]
-+++
+---
+title: Easy C Debugging
+author: Roland Marchand
+summary: Learn the basics of the GNU Debugger
+description: Learn how to use the GNU Debugger to debug C and C++ programs, analyze control flow, inspect variables at run-time, and fix crashes and segmentation faults.
+date: 2022-10-18
+toc: true
+cover: featured.webp
+categories:
+    - Computer Science
+tags:
+    - C
+    - C++
+    - Debugging
+    - Programming
+    - Tutorial
+---
 
 ## Introduction
 
