@@ -11,8 +11,6 @@ tags:
     - Computer Science
     - Programming
     - Game Engine
-authors:
-    - lazarus-overlook
 ---
 
 I am writing my own [game engine](https://github.com/RolandMarchand/murder-engine) and like most game engines, mine needs a scripting language. Think GDScript for Godot or C# for Unity. Scripts are essentially programs that call the engine's core functions, and while most engines solve this with virtual machines, I wasn't satisfied with that approach. VMs are slower than native code, consume more memory, and require tedious binding management between the scripting language and engine. More importantly, I prefer single-language codebases because they let me use the same editor, debugger, and development workflow throughout the entire project. My engine is written in C, so how can I use C as a scripting language?
